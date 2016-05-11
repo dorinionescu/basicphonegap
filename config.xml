@@ -4,9 +4,7 @@
     <description>
         Simple company info application
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        Brad Traversy
-    </author>
+    <author email="terenul@gmail.com" href="http://www.exquisiteview.com">Dorin.Ionescu</author>
     <content src="index.html" />
     <preference name="permissions" value="none" />
     <preference name="orientation" value="default" />
@@ -23,6 +21,8 @@
     <preference name="disable-cursor" value="false" />
     <preference name="android-minSdkVersion" value="7" />
     <preference name="android-installLocation" value="auto" />
+	<preference name="windows-identity-name" value="46129Dorin.Ionescu.computePinTeh" />
+    
     <gap:plugin name="org.apache.cordova.battery-status" />
     <gap:plugin name="org.apache.cordova.camera" />
     <gap:plugin name="org.apache.cordova.media-capture" />
