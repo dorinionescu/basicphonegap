@@ -1,0 +1,2 @@
+# basicphonegap
+phonegap test project
